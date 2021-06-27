@@ -20,7 +20,7 @@ import (
 	"encoding/json"
 	"math"
 
-	"github.com/willf/bitset"
+	"github.com/bits-and-blooms/bitset"
 )
 
 const defaultFPP = 1.e-5
